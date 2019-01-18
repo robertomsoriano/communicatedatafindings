@@ -1,8 +1,6 @@
-# (Boston Motor Vehicle Incidents EDA)
-## by (Roberto Soriano)
+# Boston Motor Vehicle Incidents EDA
+## by Roberto Soriano
 
-
-## Boston Crime Incident Report
 
 > Introduction
 In this notebook we will be analysing the Crime Incident Reports of the city of Boston, US, from June 2015 to January 16, 2019. This report is provided by the Boston Police Department (BPD) "to document the initial details surrounding an incident to which BPD officers respond" Source.
